@@ -1,8 +1,10 @@
 
 h1 span{
-
+        margin-left: 15%;
         background-color: #4aaaa5;
         color: white;
+        padding-left: 5%;
+        padding-right: 5%;
         
         }
 
@@ -10,10 +12,26 @@ h2{
     color: #4aaaa5;
 }
 
-div{
+
+
+img{
+    padding-right: 5%;
+    float: left;
+    height: auto;
 }
 
 .backgroundimage
 {  
-    background-image: url("../images/wheat.png");
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-image: url("../images/concrete-texture.png");
+    overflow: auto;
+ }
+
+ body{
+     background-color: lightblue;
+     height: 100%;
+     width: 100%;
  }
