@@ -55,6 +55,13 @@ img{
     overflow: auto;
  }
 
+ .internalhtmllinks{
+     float: right;
+     margin-right: 25%;
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+
+ }
+
  body{
     background-image: url("../images/concrete-texture.png");
     height: 100%;
