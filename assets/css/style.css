@@ -5,6 +5,7 @@ header{
     width: 100%;
     margin: 0 auto;
     height:70px;
+    border-bottom:thin black;
 }
 
 
@@ -79,3 +80,4 @@ img{
     border-left: 1px solid lightgray;
     height: 15px;
   }
+
