@@ -4,7 +4,7 @@ header{
     background: white;
     width: 100%;
     margin: 0 auto;
-    height:80px;
+    height:70px;
 }
 
 
@@ -73,3 +73,9 @@ img{
    background-image: url("../images/concrete-texture.png");
     margin: 0 auto;
  }
+
+ .vl {
+    display: inline-block;
+    border-left: 1px solid lightgray;
+    height: 15px;
+  }
