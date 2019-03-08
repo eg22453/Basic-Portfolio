@@ -9,13 +9,13 @@ header{
     width: 100%;
     margin: 0 auto;
     height:70px;
-    border-bottom:thin black;
+    border-bottom:1px solid lightgray ;
 }
 
 
 
 h1 span{
-    background-color: teal;
+    background-color:#4aaaa5;
     display: block;
     font-size: 35px;
     padding: 10px;
