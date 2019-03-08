@@ -1,4 +1,8 @@
 
+
+
+
+
 header{
     float: left;
     background: white;
@@ -9,10 +13,16 @@ header{
 }
 
 
+
+h1 span{
+    background-color: teal;
+
+}
+
 h1 {
         font-family: 'Georgia', Times, Times New Roman, serif;
         margin-left: 15%;
-        color:black;
+        color: white;
         padding-left: 5%;
         padding-right: 5%;
         display: inline-block;
