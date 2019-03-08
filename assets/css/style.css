@@ -19,6 +19,7 @@ h1 span{
     display: block;
     font-size: 35px;
     padding: 10px;
+    
     font-size: 25px;
     
 
@@ -28,8 +29,7 @@ h1 {
         font-family: 'Georgia', Times, Times New Roman, serif;
         margin-left: 15%;
         color: white;
-        padding-left: 5%;
-        padding-right: 5%;
+
         display: inline-block;
         
         }
