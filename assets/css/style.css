@@ -19,6 +19,8 @@ h1 span{
     display: block;
     font-size: 35px;
     padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
     
     font-size: 25px;
     
@@ -66,10 +68,10 @@ img{
 .centerbackground
 {   float: left;
     background-color: white;
-    padding-left: 5%;
+    padding-left: 3%;
     padding-right: 5%;
     padding-bottom: 5%;
-    padding-right: 5%;
+    padding-right: 3%;
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 3%;
