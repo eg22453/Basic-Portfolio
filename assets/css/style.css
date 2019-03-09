@@ -5,7 +5,7 @@
 
 header{
     float: left;
-    background: white;
+    background: #ffffff;
     width: 100%;
     margin: 0 auto;
     height:70px;
@@ -68,7 +68,7 @@ img{
 
 .centerbackground
 {   float: left;
-    background-color: white;
+    background-color:#ffffff;
     padding-left: 3%;
     padding-right: 5%;
     padding-bottom: 5%;
